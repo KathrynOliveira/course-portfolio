@@ -37,7 +37,7 @@ Siga os passos abaixo para rodar o projeto localmente:
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/KathrynOliveira/web-portfolio-react.git
+git clone https://github.com/KathrynOliveira/course-portfolio-react.git
 
 # 2. Acesse o diretório do projeto
 cd portfolio-react
